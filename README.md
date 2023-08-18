@@ -9,11 +9,11 @@
 <hr>
 <div>
 
-<a href="https://www.instagram.com/fer_straw_berry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></a> 
+<a href="https://www.linkedin.com/in/fernandaalvesdossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Farni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Farni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Farni-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 <hr>
 <div>
@@ -25,7 +25,7 @@
 
 ### 🐍
 
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
   ![Snake animation](https://github.com/farniwallace/farniwallace/blob/output/github-contribution-grid-snake.svg)
  
 </div>
